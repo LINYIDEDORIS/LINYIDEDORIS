@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yide, an aspiring developer who loves blending creativity and technology to craft meaningful experiences. \n
+I'm Yide, an aspiring developer who loves blending creativity and technology to craft meaningful experiences. /n
 Here is my portfolio: https://portfolio-linyidedoris-projects.vercel.app/
 
 <!--
