@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Yide, an aspiring developer who loves blending creativity and technology to craft meaningful experiences. /n
-Here is my portfolio: https://portfolio-linyidedoris-projects.vercel.app/
+#### I'm Yide, an aspiring developer who loves blending creativity and technology to craft meaningful experiences. 
+#### Here is my portfolio: https://portfolio-linyidedoris-projects.vercel.app/
 
 <!--
 **LINYIDEDORIS/LINYIDEDORIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
